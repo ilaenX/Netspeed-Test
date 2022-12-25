@@ -1,5 +1,5 @@
 <h1>Netspeed Test</h1>
-<hr><p>Scripts to test your network speed</p><h2>Technologies Used</h2>
+<hr><p>Script to test your network speed</p><h2>Technologies Used</h2>
 <hr><ul>
 <li>Python</li>
 <h3>Requirements</h3>
