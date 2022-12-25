@@ -2,9 +2,13 @@
 <hr><p>Scripts to test your network speed</p><h2>Technologies Used</h2>
 <hr><ul>
 <li>Python</li>
-<li>UI: Tkinter</li>
-</ul><h2>Improvements</h2>
+<h3>Requirements</h3>
 <hr><ul>
+<li>speedtest-cli</li>
+<li>tkinter</li>
+</ul><ul>
+
+</ul><h2>Improvements</h2>
 <li>Include Ping/Latency Information</li>
 <li>Include Server Information</li>
 <li>Include where user can select what SI unit of the speed test</li>
